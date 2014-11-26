@@ -1,7 +1,7 @@
 define(['jquery',
         'mustache',
-        'text!../geobricks_ui_browse/html/templates.html',
-        'i18n!../geobricks_ui_browse/nls/translate',
+        'text!../modules/geobricks_ui_browse/html/templates.html',
+        'i18n!../modules/geobricks_ui_browse/nls/translate',
         'bootstrap'], function ($, Mustache, templates, translate) {
 
     'use strict';
